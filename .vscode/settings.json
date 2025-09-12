@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    ".devcontainer": true,
+    "tmp": true,
+    "bin": true,
+    ".gitignore": true,
+    ".rspec": true,
+    ".ruby-version": true,
+    "Rakefile": true,
+    "Gemfile": true,
+    "Gemfile.lock": true,
+    "spec": true
+  }
+}
